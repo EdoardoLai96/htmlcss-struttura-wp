@@ -29,7 +29,6 @@ main .parte-gialla{
 main .parte-azzurra{
     height: 500px;
     background-color: #0086FF;
-    margin-bottom: 20px;
 }
 
 .parte-azzurra div{
@@ -62,3 +61,10 @@ main .parte-azzurra{
     float: left;
 }
 
+footer{
+    width: 100%;
+    height: 40px;
+    background-color: #8702FF;
+    margin-top: 7px;
+    margin-bottom: 25px;
+}
