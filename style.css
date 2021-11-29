@@ -39,6 +39,13 @@ main .parte-azzurra{
     background-color: #0086FF;
 }
 
+.parte-azzurra::after{
+    content: "";
+    display: table;
+    clear: both;
+
+}
+
 .parte-azzurra div{
     background-color: #ABCFE6;
 }
